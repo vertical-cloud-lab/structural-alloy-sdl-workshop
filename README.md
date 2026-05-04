@@ -1,1 +1,1 @@
-# structural-alloy-sdl
+# structural-alloy-sdl-workshop
