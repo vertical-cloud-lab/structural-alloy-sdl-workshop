@@ -108,6 +108,18 @@ When deciding whether to approach a candidate sponsor, consider:
   **Granta / Ansys**, **QuesTek Innovations** — materials-informatics
   platforms relevant to SDL workflows.
 
+### AI-for-science labs and companies
+
+- **Google DeepMind** — AI-for-science research group (e.g.,
+  GNoME materials discovery) with academic outreach and interest
+  in autonomous experimentation.
+- **Periodic Labs** — startup building autonomous laboratories for
+  materials and chemistry, closely aligned with SDL workshop topics.
+- **Lila Sciences** — pursuing AI-driven scientific superintelligence
+  and autonomous labs; expressed interest in self-driving-lab efforts
+  (no dedicated structural-alloy lab yet), so a natural early-stage
+  contact to cultivate.
+
 ### Foundations and private funders
 
 - **Gordon and Betty Moore Foundation** — Data-Driven Discovery
