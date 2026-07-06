@@ -7,6 +7,12 @@ the topic they are most likely to speak on at this workshop.
 
 > Status legend: 🟢 strong fit · 🟡 possible fit · ⚪ stretch / aspirational
 
+> Several candidates below were surfaced by a July 2026 Edison Scientific
+> literature scan focused on autonomous / high-throughput structural-alloy
+> discovery (US + international, favoring experimentally validated work). See
+> [`docs/edison-literature-scan-2026-07.md`](docs/edison-literature-scan-2026-07.md)
+> for the full summary, platforms, and citations.
+
 ## 1. Self-Driving Labs & Autonomous Experimentation (Materials / Alloys)
 
 | Speaker | Affiliation | Relevance | Status |
@@ -24,6 +30,21 @@ the topic they are most likely to speak on at this workshop.
 | Joshua Schrier | Fordham University | Autonomous experimentation methodology | 🟡 |
 | Carla P. Gomes | Cornell University | AI for scientific discovery, materials | 🟡 |
 | Lee Cronin | University of Glasgow | Chemputer / programmable labs (methods transfer) | ⚪ |
+| Sebastian A. Kube | University of Wisconsin–Madison | AlloyBot: autonomous weighing + arc-melting bulk alloy synthesis (~1 alloy/hr) | 🟢 |
+| A. Gilad Kusne | NIST | AMASE / CAMEO autonomous phase mapping & closed-loop alloy experimentation | 🟢 |
+| Todd C. Hufnagel | Johns Hopkins University | AIMD-L robotic high-throughput characterization of structural alloys (AI-agent driven) | 🟢 |
+| Dan J. Thoma | University of Wisconsin–Madison | Autonomous DED multi-principal-element alloy discovery with active learning | 🟢 |
+| Kenneth S. Vecchio | UC San Diego | HT-READ: DED alloy libraries + autoML closed loop | 🟢 |
+| Paulette Clancy | Johns Hopkins University | PAL 2.0 closed-loop Bayesian discovery of hard MPEAs (experimentally validated) | 🟢 |
+| Brad L. Boyce | Sandia National Laboratories | BeyondFingerprinting: AI-guided combinatorial alloy synthesis + automated testing | 🟢 |
+| Karen Chen-Wiegart | Stony Brook University / Brookhaven National Lab | Autonomous synchrotron mapping of alloy (de)alloying | 🟡 |
+| Katharine M. Flores | Washington University in St. Louis | Closed-loop combinatorial high-throughput structural-alloy roadmap (with AFRL) | 🟡 |
+| Alfred Ludwig | Ruhr University Bochum (Germany) | Combinatorial thin-film alloy libraries + active-learning characterization | 🟢 |
+| Ziyuan Rao | Max-Planck-Institut für Sustainable Materials (Germany) | Active-learning design of Invar HEAs with experimental validation | 🟢 |
+| Penghui Yang / Bo An | Nanyang Technological Univ. / Singapore Management Univ. (Singapore) | AutoMAT hierarchical autonomous alloy discovery (experimental validation) | 🟡 |
+| KIMS autonomous alloy lab (Hwang et al.) | Korea Institute of Materials Science (South Korea) | Self-driving alloy-development lab (arc melt, anneal, XRD, RL) | 🟡 |
+| Lijun Zhang | Central South University (China) | High-throughput CALPHAD + Bayesian optimization for casting / structural alloys | 🟡 |
+| Hyoung Seop Kim | POSTECH (South Korea) | Deep-learning HEA phase & property design | 🟡 |
 
 ## 2. Structural Alloy Design, Metallurgy & ML for Alloys
 
@@ -42,6 +63,7 @@ the topic they are most likely to speak on at this workshop.
 | Wei Chen | Northwestern University | Design under uncertainty for alloys | 🟡 |
 | Raymundo Arróyave | Texas A&M University | ICME, Bayesian alloy design | 🟢 |
 | Ankit Agrawal | Northwestern University | Deep learning for alloy properties | 🟡 |
+| Christopher J. Saldana | Georgia Tech | High-throughput AM + ML process–structure–property linkages | 🟡 |
 
 ## 3. High-Throughput Synthesis, Characterization & Robotics for Metals
 
