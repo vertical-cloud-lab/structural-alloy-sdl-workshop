@@ -59,7 +59,28 @@ Most relevant DMR programs:
 | **National AI Research Institutes** | Large-scale AI+materials institutes have been funded; future tracks are plausible. |
 | **Foundations of Robotics (FRR)** / **National Robotics Initiative (NRI) follow-ons** | Robotic sample handling and autonomous experimentation. |
 
-### 1.4 Cross-cutting NSF mechanisms worth naming explicitly
+### 1.4 Open-source ecosystem & software-sustainability programs (PESOSE, CSSI, SaTC)
+
+An SDL is as much a **software- and hardware-orchestration** effort as a
+materials effort: the instrument drivers, experiment-orchestration layer, data
+schemas, and autonomous decision loops are natural **open-source products**. If
+the workshop seeds (or anchors around) a sustainable open-source SDL stack, a
+distinct NSF funding stream — focused on software sustainability, security, and
+governance — becomes available. This is the space of the
+[**PESOSE**](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems)
+solicitation the workshop organizers flagged.
+
+| Program | Relevance to a Structural-Alloy SDL |
+|---|---|
+| **Pathways to Enable Secure Open-Source Ecosystems (PESOSE, NSF 26-506; formerly POSE)** | Turns a promising open-source SDL product (orchestration framework, driver library, data/schema standard) into a governed, secure, self-sustaining ecosystem. **Track 1** Scoping & Planning (≤$300K, ≤1 yr); **Track 2** Establishing & Expanding (≤$1.5M, ≤2 yrs); **Track 3** Improving Safety, Security & Privacy (≤$1.5M, ≤2 yrs). *I-Corps for PESOSE* is required for Track 1/2 awardees. Annual deadlines (first Tuesdays of September and March; next cycles ≈ Sep 2026 / Mar 2027). Contact: PESOSE@nsf.gov. |
+| **Cyberinfrastructure for Sustained Scientific Innovation (CSSI)** | See §1.3 — the *build* phase for SDL software/data infrastructure that a PESOSE effort would later grow into a community ecosystem. |
+| **Secure and Trustworthy Cyberspace (SaTC)** | If the SDL introduces a security/provenance research angle (supply-chain integrity for autonomous experiments, trustworthy data/actuation). Overlaps with the "Safe-OSE" security focus now carried by PESOSE Track 3. |
+
+**Positioning tip:** CSSI (build) → PESOSE Track 1 (plan/govern) → PESOSE
+Track 2/3 (grow/secure) is a coherent multi-year software-sustainability
+trajectory that complements the science-side DMR/CMMI proposals above.
+
+### 1.5 Cross-cutting NSF mechanisms worth naming explicitly
 
 - **Conference Proposals** (PAPPG Chapter II.F.9) — the primary vehicle to fund the workshop itself.
 - **EAGER** — early-stage, high-risk follow-on (≤$300K, ≤2 yrs).
@@ -158,7 +179,24 @@ single-PI BAAs; PM relationships are typically built before a proposal.
 
 ---
 
-## 8. International (for co-funded / co-located workshops)
+## 8. Open-source software sustainability (philanthropic & international)
+
+Complementing NSF PESOSE/CSSI (§1.4), several **non-federal** funders
+specifically support the maintenance, security, and governance of
+open-source research software — directly relevant if the workshop produces an
+open SDL software stack that needs a sustainability path beyond initial grants.
+
+| Source | Relevance |
+|---|---|
+| **Chan Zuckerberg Initiative (CZI) — Essential Open Source Software for Science (EOSS)** | Maintenance/sustainability grants for foundational scientific OSS. Historically life-sciences-leaning, so most relevant if SDL tooling overlaps bio/health or general-purpose scientific-Python infrastructure. |
+| **Alfred P. Sloan Foundation — Digital Infrastructure / Technology program** | Reusable cyberinfrastructure and open scientific software (see also §7). A well-matched philanthropic complement to PESOSE. |
+| **Sovereign Tech Agency (formerly Sovereign Tech Fund, Germany)** | Invests in maintenance and security of critical open digital infrastructure; useful for international co-funded hardening of an SDL stack. |
+| **NumFOCUS / Code for Science & Society** | Fiscal sponsorship, small grants, and governance support for scientific OSS projects — a practical home for a nascent SDL ecosystem's non-profit "managing organization" (which PESOSE Track 2 expects). |
+| **OpenSSF (Linux Foundation) / GitHub Accelerator & Fund** | Security tooling, best practices, and community/adoption support for open-source projects; relevant to the safety/security angle of PESOSE Track 3. |
+
+---
+
+## 9. International (for co-funded / co-located workshops)
 
 - **UK EPSRC / Henry Royce Institute** — autonomous materials discovery.
 - **EU Horizon Europe** — *Cluster 4: Digital, Industry & Space*, particularly
@@ -170,7 +208,7 @@ single-PI BAAs; PM relationships are typically built before a proposal.
 
 ---
 
-## 9. Action items for the workshop organizers
+## 10. Action items for the workshop organizers
 
 1. **Shortlist 3–5 NSF POs** across DMR (MMN, DMREF), CMMI (MoMS, AM), and
    CISE (CSSI) using the staff pages linked above; send a 1-page workshop
@@ -178,6 +216,11 @@ single-PI BAAs; PM relationships are typically built before a proposal.
 2. **Identify 1–2 DOD PMs** (AFOSR aerospace materials + ONR Code 332) for
    potential co-funding; DOD often appreciates being approached early.
 3. **Reach out to ARPA-E** and **TRI** for industry-aligned co-sponsorship.
+4. **Assess the open-source-ecosystem angle** (§1.4, §8): if the workshop will
+   produce or anchor an open-source SDL software stack, map it to the
+   **PESOSE** track ladder (CSSI build → PESOSE Track 1 plan → Track 2/3
+   grow/secure) and note the annual Sep/Mar deadlines and the required
+   *I-Corps for PESOSE* activity.
 4. **Confirm current PO/PM names and emails** on each agency's program page at
    the time of outreach — do not rely on names from older proposals or this
    document.
