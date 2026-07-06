@@ -6,6 +6,9 @@ and **structural alloys** (metallic materials for load-bearing,
 high-temperature, fatigue-critical, and extreme-environment applications).
 
 The list is organized by funder, with the most directly relevant programs first.
+Because the immediate need is money to **run the event**, the document opens with
+the cross-agency **conference/workshop funding mechanisms** (and the NSF DMR/MGI
+route in particular) before cataloging funders and their research programs.
 For each program we note the **scope**, **why it fits an SDL-for-alloys
 workshop**, and pointers for **identifying the current Program Officer / Program
 Manager (PO/PM)**. Specific PO/PM names are intentionally *not* hard-coded here
@@ -19,12 +22,68 @@ agency's program page before reaching out.
 
 ---
 
+## Funding the event itself — conference/workshop/symposium mechanisms (start here)
+
+The **primary near-term need is money to run the workshop/conference/symposium**,
+not a multi-year research grant. The workhorse for this at NSF is the
+**conference proposal** (a.k.a. conference grant), which explicitly covers
+workshops, symposia, and short courses. Key facts:
+
+- **Mechanism:** NSF **Conference Proposals** under **PAPPG Chapter II.F.9**
+  (formerly II.E.7). Submitted to a specific program/division — for an
+  SDL-for-alloys event the natural home is **DMR** (see §1.1), with **CMMI**
+  (§1.2) as an engineering co-home.
+- **Budget & approval:** Conference budgets **≥ $50,000 require prior written
+  approval from the cognizant Program Officer** (PAPPG); typical materials
+  workshop grants land roughly in the **$10K–$75K** range (participant travel,
+  early-career/first-time-attendee support, venue, accessibility, DEI, report
+  production). Larger community workshops can be justified but must be cleared
+  with the PO first.
+- **Process:** Email the DMR (and/or CMMI) PO a **1–2 page concept** — purpose,
+  dates, location, organizers, expected attendance and broadening-participation
+  plan, and a draft budget — **at least ~6 months before the event**, then
+  submit via Research.gov. A required outcome is a **publicly available
+  workshop report**, which is exactly the vehicle to seed a follow-on research
+  agenda (and to hand to ARPA-E/DOD PMs — see §2–§3).
+
+### The MGI / DMR angle (most relevant to this workshop)
+
+An SDL-for-structural-alloys workshop sits squarely in the **Materials Genome
+Initiative (MGI)** space (data-driven, autonomous, closed-loop discovery), which
+makes **DMR** the strongest fit for a conference proposal:
+
+- **Frame the event around MGI goals** (materials data/FAIR infrastructure,
+  computation + experiment integration, accelerated/autonomous discovery). NSF
+  DMR prioritizes MGI-aligned community activities.
+- **Watch for MGI-themed Dear Colleague Letters (DCLs).** NSF periodically
+  issues DCLs inviting MGI/data-science community workshops and EAGER/RAISE
+  planning proposals; a DCL can be a more targeted (and better-resourced) route
+  than a plain conference proposal. Check the DMR program page and NSF's MGI
+  page for current DCLs before submitting.
+- **DMREF** (§1.1) is NSF's flagship MGI research program — not itself a
+  workshop mechanism, but the natural research follow-on that the workshop
+  report can motivate, and DMREF POs are the right people to approach about the
+  conference proposal.
+- **Cross-agency MGI:** MGI is a multi-agency initiative (NSF, DOE, NIST, DOD,
+  NASA). A workshop explicitly badged as MGI-relevant is well-positioned for
+  **co-funding or in-kind co-hosting** from NIST (§4) and DOE (§2), and for
+  cross-agency PO/PM attendance.
+
+Other agencies also run **conference/workshop grant** lines — see the
+event-funding notes flagged under DOE (§2), DOD (§3: AFOSR/ONR/ARO conference
+grants), NASA (§5), and private foundations/RCSA-Scialog (§7). The rest of this
+document catalogs those funders and their **research** programs for the
+follow-on agenda.
+
+---
+
 ## 1. National Science Foundation (NSF) — Highest Priority
 
 NSF is the most natural primary sponsor for an academic workshop on SDLs for
 structural alloys. Workshops are typically funded as small (~$50–100K)
-**conference/workshop proposals** under the relevant program, often with an
-EAGER or RAISE follow-on for the research agenda that emerges.
+**conference/workshop proposals** under the relevant program (see the
+[event-funding section above](#funding-the-event-itself--conferenceworkshopsymposium-mechanisms-start-here)),
+often with an EAGER or RAISE follow-on for the research agenda that emerges.
 
 ### 1.1 Directorate for Mathematical & Physical Sciences (MPS) — Division of Materials Research (DMR)
 
@@ -210,21 +269,29 @@ open SDL software stack that needs a sustainability path beyond initial grants.
 
 ## 10. Action items for the workshop organizers
 
-1. **Shortlist 3–5 NSF POs** across DMR (MMN, DMREF), CMMI (MoMS, AM), and
-   CISE (CSSI) using the staff pages linked above; send a 1-page workshop
-   concept *before* drafting the conference proposal.
-2. **Identify 1–2 DOD PMs** (AFOSR aerospace materials + ONR Code 332) for
-   potential co-funding; DOD often appreciates being approached early.
-3. **Reach out to ARPA-E** and **TRI** for industry-aligned co-sponsorship.
-4. **Assess the open-source-ecosystem angle** (§1.4, §8): if the workshop will
+1. **Lead with an NSF DMR conference proposal.** Email a DMR PO (MGI/DMREF or
+   MMN) a 1–2 page workshop concept + draft budget ~6 months out; get the
+   required prior approval if the budget will exceed $50K. Frame the event
+   around **MGI** goals and check for any current **MGI-themed Dear Colleague
+   Letters** that offer a more targeted route. CMMI (MoMS/AM) is a natural
+   co-home. *(See the event-funding section and §1.)*
+2. **Shortlist 3–5 NSF POs** across DMR (MMN, DMREF), CMMI (MoMS, AM), and
+   CISE (CSSI) using the staff pages linked above for the follow-on research
+   agenda that the workshop report will motivate.
+3. **Identify 1–2 DOD PMs** (AFOSR aerospace materials + ONR Code 332) for
+   potential co-funding or a co-hosted conference grant; DOD often appreciates
+   being approached early.
+4. **Reach out to ARPA-E** and **TRI** for industry-aligned co-sponsorship, and
+   to **NIST/DOE** for MGI-aligned in-kind co-hosting.
+5. **Assess the open-source-ecosystem angle** (§1.4, §8): if the workshop will
    produce or anchor an open-source SDL software stack, map it to the
    **PESOSE** track ladder (CSSI build → PESOSE Track 1 plan → Track 2/3
    grow/secure) and note the annual Sep/Mar deadlines and the required
    *I-Corps for PESOSE* activity.
-4. **Confirm current PO/PM names and emails** on each agency's program page at
+6. **Confirm current PO/PM names and emails** on each agency's program page at
    the time of outreach — do not rely on names from older proposals or this
    document.
-5. Track outreach in a separate (non-public) contacts spreadsheet; this file
+7. Track outreach in a separate (non-public) contacts spreadsheet; this file
    should remain a public catalog of *programs*, not individuals.
 
 ---
